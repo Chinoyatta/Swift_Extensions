@@ -1,1 +1,3 @@
 # Swift_Extensions
+
+swiftでまれによくつかうExtension
