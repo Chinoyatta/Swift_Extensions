@@ -1,6 +1,5 @@
 //
 //  UITextViewExt.swift
-//  HonorificDictionary
 //
 //  Created by Chino Eichi on 2017/05/08.
 //  Copyright © 2017年 Chino Eichi. All rights reserved.
