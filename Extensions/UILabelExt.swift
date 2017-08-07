@@ -6,6 +6,8 @@
 
 import UIKit
 
+// how to use
+// label = UILabel.create(text: "text", point: CGPoint(x: 50, y: 50), color)
 extension UILabel {
     
     /// テキストとポジションを指定してラベルを生成する
